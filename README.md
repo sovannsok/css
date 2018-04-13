@@ -11,7 +11,7 @@ Push all your coding activities to GitHub by following the below instructions
 
 2. type
 	
-	<i>$ cd C:\Users\sovansok\Desktop\Coding\html</i>
+	<i>$ cd C:\Users\sovansok\Desktop\Coding\css</i>
 
 3. check if there is anything to push
 	
